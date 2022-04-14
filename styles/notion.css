@@ -1872,3 +1872,7 @@ pre[class*='language-'] {
 .font-light {
     font-weight: 400;
 }
+
+.leading-7 {
+  margin-bottom: 2rem;
+}
