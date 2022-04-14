@@ -1868,3 +1868,7 @@ pre[class*='language-'] {
 .notion-table-cell-multi_select {
   padding: 7px 8px 0;
 }
+
+.font-light {
+    font-weight: 400;
+}
