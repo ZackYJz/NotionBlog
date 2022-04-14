@@ -6,9 +6,9 @@ const CONFIG_NEXT = {
   NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部、屏幕顶部自动折叠，不固定
 
   POST_LIST_TYPE: 'scroll', // ['page','scroll] 文章列表样式:页码分页、单页滚动加载
-  POST_LIST_COVER: true, // 文章列表显示封面图
-  POST_LIST_PREVIEW: true, // 显示文章预览
-  POST_LIST_SUMMARY: false, // 显示用户自定义摘要，有预览时优先只展示预览
+  POST_LIST_COVER: false, // 文章列表显示封面图
+  POST_LIST_PREVIEW: false, // 显示文章预览
+  POST_LIST_SUMMARY: true, // 显示用户自定义摘要，有预览时优先只展示预览
 
   // 右侧组件
   RIGHT_BAR: true, // 是否显示右侧栏
@@ -28,7 +28,7 @@ const CONFIG_NEXT = {
   WIDGET_PET: false, // 是否显示宠物挂件
   WIDGET_TO_TOP: true, // 是否显示回顶
   WIDGET_TO_BOTTOM: false, // 显示回底
-  WIDGET_DARK_MODE: false, // 显示日间/夜间模式切换
+  WIDGET_DARK_MODE: true, // 显示日间/夜间模式切换
   WIDGET_TOC: true, // 移动端显示悬浮目录
 
   ARTICLE_SHARE: false, // 文章分享功能
