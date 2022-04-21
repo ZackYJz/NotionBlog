@@ -15,6 +15,8 @@ const CONFIG_HEXO = {
   ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   ARTICLE_COPYRIGHT: false, // 显示文章版权声明
   ARTICLE_RECOMMEND: true, // 文章关联推荐
+  
+  NAV_TYPE: 'autoCollapse',
 
   WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   WIDGET_ANALYTICS: false, // 显示统计卡
