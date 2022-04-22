@@ -1885,6 +1885,14 @@ pre[class*='language-'] {
   background-color: #252627;
 }
 
+#nav {
+  color: white;
+}
+
+.dark #nav{
+  color: black;
+}
+
 #sticky-nav:hover {
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, .1);
 }
