@@ -1882,16 +1882,13 @@ pre[class*='language-'] {
 }
 
 .dark #sticky-nav {
-  background-color: #252627;
+  background-color: #ffffff33;
 }
 
 #nav {
   color: black !important;
 }
 
-.dark #nav{
-  color: white !important;
-}
 
 #sticky-nav:hover {
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, .1);
