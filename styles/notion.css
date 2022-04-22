@@ -1886,11 +1886,11 @@ pre[class*='language-'] {
 }
 
 #nav {
-  color: black;
+  color: black !important;
 }
 
 .dark #nav{
-  color: white;
+  color: white !important;
 }
 
 #sticky-nav:hover {
